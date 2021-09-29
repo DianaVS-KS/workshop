@@ -8,3 +8,5 @@ This project was made for demonstration purposes for the react basics workshop.
 - Create a card component that contains name, image and quote.
 - Fetch from the api https://thesimpsonsquoteapi.glitch.me/ to get the Simpsons characters.
 - Display the info obtained from the api in the card component.
+
+https://react-basics-workshop.netlify.app/
