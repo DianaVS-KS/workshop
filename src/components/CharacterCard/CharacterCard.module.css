@@ -1,0 +1,15 @@
+.cardContainer {
+  background-color: #b5e2fa;
+  border-radius: 20px;
+  padding: 16px;
+}
+
+.divImg {
+  display: flex;
+  justify-content: center;
+}
+
+.img {
+  height: 18vw;
+  width: 60%;
+}

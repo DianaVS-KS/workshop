@@ -1,0 +1,21 @@
+.generalContainer {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 24px;
+}
+
+.generalContainer > div {
+  margin: 5px;
+  width: 300px;
+}
+
+/* Ejemplo title */
+/* .title {
+  text-align: center;
+} */
+
+h1,
+h2 {
+  color: #101d42;
+  text-align: center;
+}
